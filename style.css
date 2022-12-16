@@ -1,0 +1,24 @@
+h1.Title{
+    text-align: center;
+    background-color:wheat ;
+}
+div.menu{
+    background-color:greenyellow ;
+    text-align: center;
+}
+div.quienes{
+    background-color: orange;
+}
+div.mapa{
+    display: inline-block;
+}
+p.actividades{
+    background-color: orange;
+}
+p.sueno{
+    color: purple;
+    background-color: yellow;
+}
+div.bajo{
+    background-color: blue;
+}
