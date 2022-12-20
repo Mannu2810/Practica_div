@@ -12,16 +12,18 @@ div.quienes{
 div.mapa{
     display: inline-block;
 }
-samp.actividades{
+span.actividades{
     background-color: orange;
+    display:block ;
 }
-samp.sueno{
+span.sueno{
     text-align: center;
     color: purple;
     background-color: yellow;
     
     
 }
-div.bajo{
+footer{
     background-color: blue;
+    text-align: center;
 }
